@@ -1,2 +1,2 @@
 # code-python3
-code from python3.wannaphong.com
+code from https://python3.wannaphong.com

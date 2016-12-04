@@ -1,2 +1,3 @@
 # code-python3
-code from https://python3.wannaphong.com
+โค้ดทั้งหมดที่ใช้ประกอบบทความในบล็อก https://python3.wannaphong.com
+:)

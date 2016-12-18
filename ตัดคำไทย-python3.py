@@ -27,4 +27,5 @@ def warp(txt):
             lastPos = currentPos
     except StopIteration:
         pass
-        #retTxt = retTxt[:
+        #retTxt = retTxt[:-1]
+    return retTxt
